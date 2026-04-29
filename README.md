@@ -1,5 +1,4 @@
 # Practica_Humburgueria
-# Prática Hamburgueria
 
 Projeto em Python que implementa um sistema simples de cadastro de hambúrgueres via terminal.
 
