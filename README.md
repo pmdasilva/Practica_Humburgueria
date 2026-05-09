@@ -1,6 +1,6 @@
 # Practica_Humburgueria
 
-Projeto em Python que implementa um sistema simples de cadastro de hambúrgueres via terminal.
+Projeto em Python para gerenciamento simples de um cardápio de hambúrgueres pelo terminal. A aplicação oferece cadastro, listagem, atualização e exclusão de hambúrgueres em memória, com interface de menu interativo e comandos claros.
 
 ## O que foi feito
 
@@ -68,3 +68,9 @@ Projeto em Python que implementa um sistema simples de cadastro de hambúrgueres
 
 - Os dados são mantidos apenas em memória enquanto o programa estiver em execução.
 - Se quiser, posso ajudar a estender o projeto para salvar os dados em arquivo ou banco de dados.
+
+## Nota sobre atualizações de código
+
+- A descrição do projeto no README foi atualizada para explicar melhor o propósito e o funcionamento do sistema.
+- Incluí detalhes de arquitetura e fluxo de uso para facilitar a compreensão de quem for revisar o código.
+- Esta nota documenta as mudanças recentes feitas na documentação, sem alterar o comportamento do código em si.
